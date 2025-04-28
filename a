@@ -1,0 +1,23 @@
+* [33m786665e[m[33m ([m[1;31morigin/main[m[33m)[m feat: modificando el subtitulo
+*   [33m0eef6af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m Merge branch 'dev'
+[32m|[m[33m\[m  
+[32m|[m * [33mb7bb888[m feat: añadiendo un subtitulo
+* [33m|[m [33ma260004[m Merge branch 'dev'
+[34m|[m[33m\[m[33m|[m 
+[34m|[m * [33me21af09[m feat;cambiando el color del texto
+* [35m|[m [33m6ee12b0[m feat: merging branches
+[36m|[m[35m\[m[35m|[m 
+[36m|[m * [33m9b04efa[m[33m ([m[1;31morigin/dev[m[33m)[m feat; aplicando stilos
+* [1;31m|[m [33m04bf885[m aaaMerge branch 'dev'
+[1;32m|[m[1;31m\[m[1;31m|[m 
+[1;32m|[m * [33mdbc6333[m feat : formateo automatico
+* [1;33m|[m [33m25f10f9[m feat: formateo automatico
+* [1;33m|[m [33m130d806[m Feat: añadiendo subtitulo
+[1;33m|[m[1;33m/[m  
+*   [33mb293d10[m Merge branch 'main' into dev
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33m48cee11[m feat: Creando archivo gitingnore
+* [1;35m|[m [33ma7c7240[m feat: Cambio de titulo
+* [1;35m|[m [33m13bec03[m feat: estructura básica de  html
+[1;35m|[m[1;35m/[m  
+* [33m8106c6a[m Feat: archivos iniciales del proyecto
